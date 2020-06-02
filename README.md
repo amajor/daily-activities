@@ -1,6 +1,8 @@
 # Daily Activities
 
  A simple JavaScript clock with the current daily activities.
+ 
+View at https://amajor.github.io/daily-activities/
 
 ### Font
 
