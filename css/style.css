@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'VCR';
+  src: url('./fonts/VCR_OSD_MONO_1.001.ttf') format('truetype');
+}
+
+body {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-family: 'VCR', Fallback, sans-serif;
+}
+
+.current-activity {
+  font-size: 600%;
+}
+
+.current-date {
+  font-size: 300%;
+}
+
+.current-time {
+  font-size: 300%;
+}
